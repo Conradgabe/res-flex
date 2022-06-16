@@ -133,3 +133,22 @@ figure {
 .column-one {
   padding-top: 70px;
 }
+
+button.first:hover {
+  border: 2px solid white;
+  border-radius: 25px;
+  background: none;
+  color: white;
+}
+button.second:hover {
+  border: 2px solid white;
+  border-radius: 25px;
+  background: none;
+  color: white;
+}
+button.third:hover {
+  border: 2px solid white;
+  border-radius: 25px;
+  background: none;
+  color: white;
+}

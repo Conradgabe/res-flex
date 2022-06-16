@@ -1,2 +1,2 @@
-# res-grid
-3 column design grid
+# responsive-flexbox-design
+3-column design with flexbox

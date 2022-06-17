@@ -152,6 +152,12 @@ button.third:hover {
   background: none;
   color: white;
 }
+header {
+  background-color: #FCF8E8;
+  margin: 15px;
+  padding: 20px;
+  text-align: right;
+}
 .link {
   background-color: hsl(31, 77%, 52%);
   margin: 10px;
